@@ -1,4 +1,4 @@
-## 🟣 Olá, meu nome é <strong>Natália</strong> 🟣
+## 🟣 Hello World, meu nome é <strong>Natália</strong> 🟣
 
 - 🖥 &nbsp; Apaixonada por tecnologia!
 - 👩🏻‍💻 &nbsp; Futura desenvolvedora Front-End.
