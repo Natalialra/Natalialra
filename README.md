@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  🖥 &nbsp; Apaixonada por tecnologia!       
-  👩🏻‍💻 &nbsp; Desenvolvedora Front-End.
+  👩🏻‍💻 &nbsp; Desenvolvedora Front-End. </br> 
+  🖥 &nbsp; Apaixonada por tecnologia!      
+  
  </div> 
 
 <div align="center">
