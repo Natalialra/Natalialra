@@ -3,7 +3,7 @@
 
 <div align="center">
   🖥 &nbsp; Apaixonada por tecnologia!       
-  👩🏻‍💻 &nbsp; Futura desenvolvedora Front-End.
+  👩🏻‍💻 &nbsp; Desenvolvedora Front-End.
  </div> 
 
 <div align="center">
